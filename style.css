@@ -1,14 +1,14 @@
 /*
-Theme Name: re-source
+Theme Name: artificium
 Theme URI: http://www.webdesigndenhaag.net/
-Description: WP Theme for project RE-source
-Version: 0.1
+Description: WP Theme for project Artificium
+Version: 0.0.1
 Details URI: http://webdesigndenhaag.net/
 Author: Webbouwer
 Author URI: https://github.com/webbouwer
 License: GPL 3
 License URI: http://www.gnu.org/licenses/gpl-3.0.html
-Text Domain: re_source
+Text Domain: artificium
 Tags: theme-options, custom-menu, full-width-template, featured-image-header, featured-images
 */
 
@@ -32,41 +32,4 @@ color: black;
 a.active
 {
 color: #232323;
-}
-#mainmenucontainer
-{
-    position: relative;
-    display: block;
-    float:left;
-    width:25%;
-}
-#postcontainer
-{
-    position: relative;
-    display: block;
-    float:left;
-    width:50%;
-}
-#mainfiltercontainer
-{
-    position: relative;
-    float:right;
-    width:25%;
-}
-.item,
-.base,
-.size-s {
-  width: 14.29%;
-  min-height:150px;
-    color:#232323;
-  background: white;
-  overflow:hidden;
-}
-.item.active{
-  background: white;
-}
-
-.tag-filter.selected
-{
-font-weight:bold;
 }
