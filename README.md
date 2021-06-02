@@ -8,7 +8,7 @@ A project combining knowledge about artifact collections, information archives a
 
 #### Sources
 
-A nice find https://duckduckgo.com/?q=artifact+collections+with+wordpress&t=ffab&ia=web
+Searches reveal https://duckduckgo.com/?q=artifact+collections+with+wordpress&t=ffab&ia=web , https://artifactpreservationblog.wordpress.com/
 
 Previous code (themes and plugins)
 
