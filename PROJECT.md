@@ -1,7 +1,10 @@
 # Project information
 
 Artificium is a project that combines a research on artifact collections and information archives with Wordpress design and development.
-The end goal is to create a flexible Wordpress Theme for the modern web, using javascript as the core interactive code language.
+The end goal is to create a flexible Wordpress Theme for the modern web.
+
+ - Wordress CMS to manage the backend
+ - Javascript to interface the frontend
 
 ### Sources
 
@@ -11,7 +14,7 @@ https://duckduckgo.com/?q=artifact+collections+with+wordpress&t=ffab&ia=web
 
 https://artifactpreservationblog.wordpress.com/
 
-##### WP Code experience 
+##### WP Code experience
 
 https://github.com/webbouwer/re-source-setup - [re-source.info](https://www.re-source.info/)
 
