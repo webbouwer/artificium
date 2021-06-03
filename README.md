@@ -6,11 +6,11 @@ Wordpress theme for artifact collections and musea
 
 In development:
 
- - Backend data instantiation
- - [x] Basic content data to Json
+ - Backend
+ - [x] Json content data instantiation
  - [ ] Localized content filter (setup01)
 
- - Frontend Javascript
+ - Frontend
  - [x] Json data variables
  - [ ] Localized content filter
  - [ ] Menu routing
