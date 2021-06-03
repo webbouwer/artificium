@@ -8,9 +8,11 @@ In development:
 
  - Backend data instantiation
  - [x] Basic content data to Json
+ - [ ] Localized content filter (setup01)
 
  - Frontend Javascript
  - [x] Json data variables
+ - [ ] Localized content filter
  - [ ] Menu routing
  - [ ] Widgets
  - [ ] Plugins
