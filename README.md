@@ -2,9 +2,9 @@
 
 Setup version 0.0.1
 
-Plugin for artifact collections
+Child theme for artifact collections in Protago
 
-A plugin to combine posts and media along a categroy structure
+A child theme to combine posts and media along a collection structure
 
 #### Sources
 
