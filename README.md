@@ -1,10 +1,11 @@
-# artificium
+# artificium (setup)
 
 Setup version 0.0.1
 
-Plugin for artifact collections
+Them (startup) for artifact collections
 
-A plugin to combine posts and media along a categroy structure
+A theme to combine posts and media along a categroy structure - rebuild as collection-plugin
+
 
 #### Sources
 
